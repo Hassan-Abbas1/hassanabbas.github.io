@@ -1,0 +1,26 @@
+{
+    "short_name": "EndLevelProgramer",
+    "name": "Hassan Abbas",
+    "icons": [
+      {
+        "src": "/images/",
+        "type": "image/",
+        "sizes": "512x512"
+      },
+      {
+        "src": "/images/",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/images/icons-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "background_color": "#000",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#000",
+    "description": "This website is just a basic project that i have created for the first time we will keep it up to date"
+}

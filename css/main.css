@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media(max-width:425px){
+    .mx-425-2{
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+}

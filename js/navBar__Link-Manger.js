@@ -6,25 +6,25 @@ const Nav_Link__btn_1 = document.getElementById("Nav-Link__btn-1"),
   btn__2_Blog = document.getElementById("btn__2-Blog"),
   btn__3_Blog = document.getElementById("btn__3-Blog"),
   Nav_Link__btn_1_function = () => {
-    window.location.href = "index.html";
+    window.location.href = "/index.html";
   },
   Nav_Link__btn_2_function = () => {
-    window.location.href = "contact.html";
+    window.location.href = "/contact.html";
   },
   Nav_Link__btn_3_function = () => {
-    window.location.href = "services.html";
+    window.location.href = "/services.html";
   },
   Nav_Link__btn_4_function = () => {
-    window.location.href = "myGames.html";
+    window.location.href = "/myGames.html";
   },
   btn__1_Blog_function = () => {
-    window.location.href = "blog/How can you Secure Accounts with 2FA.html";
+    window.location.href = "/blog/How can you Secure Accounts with 2FA.html";
   },
   btn__2_Blog_function = () => {
-    window.location.href = "myGames.html";
+    window.location.href = "/myGames.html";
   },
   btn__3_Blog_function = () => {
-    window.location.href = "myGames.html";
+    window.location.href = "/myGames.html";
   };
 var modal = document.getElementById("myModal"),
   img = document.getElementById("myImg"),
